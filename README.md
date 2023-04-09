@@ -5,7 +5,7 @@
 - File Data: [Image](https://drive.google.com/drive/folders/1GEXEiOtj2QEtvqaR1gskNHDxRmXVr2g7?usp=share_link)
 
 ### 2. Detection
-- Image For Detect: [Image](https://drive.google.com/drive/folders/18C0S3vyaUXRHRLpGU1JnlXqzv7u7bAZG?usp=sharing)
+- Image For Detec: [Image](https://drive.google.com/drive/folders/18C0S3vyaUXRHRLpGU1JnlXqzv7u7bAZG?usp=sharing)
 - Detect Image: [Detection](https://drive.google.com/drive/folders/1ld8_rfO3TO8LSKOt4PInqYnI4BF4rUtd?usp=share_link)
 
 ### 3. Tracking
