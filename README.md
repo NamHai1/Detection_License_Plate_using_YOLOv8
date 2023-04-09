@@ -16,7 +16,3 @@
     <li>Tracking: <a href="https://drive.google.com/file/d/1-8CHfvysgdF93N9bIvC-ovOxH_GCftII/view?usp=sharing">Video</a></li>
   </ul>
 </html>
-
-
-
-
